@@ -1,0 +1,7 @@
+C:\Users\Анастасия\Desktop\new\task6.1\task6.1\bin\Debug\task6.1.exe.config
+C:\Users\Анастасия\Desktop\new\task6.1\task6.1\bin\Debug\task6.1.exe
+C:\Users\Анастасия\Desktop\new\task6.1\task6.1\bin\Debug\task6.1.pdb
+C:\Users\Анастасия\Desktop\new\task6.1\task6.1\obj\Debug\task6.1.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\new\task6.1\task6.1\obj\Debug\task6.1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\new\task6.1\task6.1\obj\Debug\task6.1.exe
+C:\Users\Анастасия\Desktop\new\task6.1\task6.1\obj\Debug\task6.1.pdb
