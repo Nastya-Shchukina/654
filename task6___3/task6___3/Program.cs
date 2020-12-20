@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace task6__3
+namespace task6___3
 {
     class Program
     {
-        static void Main()
+            static void Main()
         {
             Console.WriteLine("Введите позицию белой ладьи: ");
             string whiteRookPosition = Console.ReadLine();
@@ -29,8 +29,7 @@ namespace task6__3
                 Console.WriteLine("Позиции введены некорректно");
 
             Console.ReadKey();
-
-        }
+         }
 
         static void GetCoordinates(string position, out int x, out int y)
         {
@@ -74,3 +73,4 @@ namespace task6__3
     }
 
 }
+
