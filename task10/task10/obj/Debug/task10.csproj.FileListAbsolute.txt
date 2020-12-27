@@ -1,0 +1,7 @@
+C:\Users\Анастасия\Desktop\new\task10\task10\bin\Debug\task10.exe.config
+C:\Users\Анастасия\Desktop\new\task10\task10\bin\Debug\task10.exe
+C:\Users\Анастасия\Desktop\new\task10\task10\bin\Debug\task10.pdb
+C:\Users\Анастасия\Desktop\new\task10\task10\obj\Debug\task10.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\new\task10\task10\obj\Debug\task10.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\new\task10\task10\obj\Debug\task10.exe
+C:\Users\Анастасия\Desktop\new\task10\task10\obj\Debug\task10.pdb
