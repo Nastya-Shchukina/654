@@ -1,0 +1,7 @@
+C:\Users\Анастасия\Desktop\new\hw9\hw9\bin\Debug\hw9.exe.config
+C:\Users\Анастасия\Desktop\new\hw9\hw9\bin\Debug\hw9.exe
+C:\Users\Анастасия\Desktop\new\hw9\hw9\bin\Debug\hw9.pdb
+C:\Users\Анастасия\Desktop\new\hw9\hw9\obj\Debug\hw9.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\new\hw9\hw9\obj\Debug\hw9.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\new\hw9\hw9\obj\Debug\hw9.exe
+C:\Users\Анастасия\Desktop\new\hw9\hw9\obj\Debug\hw9.pdb
