@@ -28,7 +28,7 @@ namespace ClassLibraryPharmacy
             return $"{Articul} {Name}";
         }
 
-        public void PrintInfo()
+        public virtual void PrintInfo()
         {
             Console.WriteLine(this);
 
@@ -44,6 +44,54 @@ namespace ClassLibraryPharmacy
             }
 
             Console.WriteLine($"Производитель: {Maker}. Цена: {Price}. Количество на складе: {Availibility}.");
+        }
+
+        public class Pills : Medicine
+        {
+            public int Piece;
+            public Pills(string articul, string name, MedicineRecept recept, string maker, int piece) : 
+                base(articul,name, recept, maker)
+            {
+                Piece = piece;
+            }
+
+            public override void PrintInfo()
+            {
+                base.PrintInfo();
+                Console.WriteLine($"Таблетки {Piece} шт. в упаковке");
+            }
+        }
+
+        public class Mixture : Medicine
+        {
+            public int Piece;
+            public Mixture(string articul, string name, MedicineRecept recept, string maker, int piece) : 
+                base(articul, name, recept, maker)
+            {
+                Piece = piece;
+            }
+
+            public override void PrintInfo()
+            {
+                base.PrintInfo();
+                Console.WriteLine($"Микстура {Piece} мл в бутылке");
+            }
+        }
+
+        public class Ointment : Medicine
+        {
+            public int Piece;
+            public Ointment(string articul, string name, MedicineRecept recept, string maker, int piece) :
+                base(articul, name, recept, maker)
+            {
+                Piece = piece;
+            }
+
+            public override void PrintInfo()
+            {
+                base.PrintInfo();
+                Console.WriteLine($"Мазь {Piece} мг в тубе");
+            }
         }
     }
 }
