@@ -1,7 +1,0 @@
-C:\Users\Анастасия\Desktop\new\task05\task05\bin\Debug\task05.exe.config
-C:\Users\Анастасия\Desktop\new\task05\task05\bin\Debug\task05.exe
-C:\Users\Анастасия\Desktop\new\task05\task05\bin\Debug\task05.pdb
-C:\Users\Анастасия\Desktop\new\task05\task05\obj\Debug\task05.csprojAssemblyReference.cache
-C:\Users\Анастасия\Desktop\new\task05\task05\obj\Debug\task05.csproj.CoreCompileInputs.cache
-C:\Users\Анастасия\Desktop\new\task05\task05\obj\Debug\task05.exe
-C:\Users\Анастасия\Desktop\new\task05\task05\obj\Debug\task05.pdb
