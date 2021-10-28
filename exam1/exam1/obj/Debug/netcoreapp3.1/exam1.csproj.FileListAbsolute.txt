@@ -1,0 +1,5 @@
+C:\Users\Анастасия\Desktop\new\exam1\exam1\bin\Debug\netcoreapp3.1\exam1.deps.json
+C:\Users\Анастасия\Desktop\new\exam1\exam1\bin\Debug\netcoreapp3.1\exam1.dll
+C:\Users\Анастасия\Desktop\new\exam1\exam1\obj\Debug\netcoreapp3.1\exam1.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\new\exam1\exam1\obj\Debug\netcoreapp3.1\exam1.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\new\exam1\exam1\obj\Debug\netcoreapp3.1\exam1.AssemblyInfo.cs
